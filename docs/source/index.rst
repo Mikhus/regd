@@ -1,9 +1,9 @@
-.. tracepyd documentation master file, created by
+.. regd documentation master file, created by
    sphinx-quickstart on Tue Oct 16 17:28:56 2012.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to tracepyd's documentation!
+Welcome to RegD's documentation!
 ====================================
 
 Contents:
