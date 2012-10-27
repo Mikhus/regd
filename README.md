@@ -50,6 +50,10 @@ It's also available manual installation from git repository, like
     > cd regd
     > python setup.py install
 
+Documentation
+--------------------------------------------------------------------------------
+RegD package documentation is available at http://packages.python.org/regd/
+
 License
 --------------------------------------------------------------------------------
 This package is subject to MIT License. To get more info, please, see
